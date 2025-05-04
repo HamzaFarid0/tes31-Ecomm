@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "name": "Diamond Necklace",
+      "brand": "LuxGold",
+      "image": "assets/images/jewellery/jewellery-1.png",
+      "rating": 5,
+      "price": 350,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 2,
+      "name": "Gold Earrings",
+      "brand": "PureGold",
+      "image": "assets/images/jewellery/jewellery-2.png",
+      "rating": 4,
+      "price": 320,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 3,
+      "name": "Silver Bracelet",
+      "brand": "SilverLuxe",
+      "image": "assets/images/jewellery/jewellery-3.png",
+      "rating": 4,
+      "price": 380,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 4,
+      "name": "Platinum Ring",
+      "brand": "PlatinumPlus",
+      "image": "assets/images/jewellery/jewellery-4.png",
+      "rating": 5,
+      "price": 400,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 5,
+      "name": "Ruby Pendant",
+      "brand": "Gemstone",
+      "image": "assets/images/jewellery/jewellery-5.png",
+      "rating": 5,
+      "price": 370,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 6,
+      "name": "Emerald Brooch",
+      "brand": "LuxuryGems",
+      "image": "assets/images/jewellery/jewellery-6.png",
+      "rating": 4,
+      "price": 360,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 7,
+      "name": "Sapphire Cufflinks",
+      "brand": "GentElegance",
+      "image": "assets/images/jewellery/jewellery-7.png",
+      "rating": 4,
+      "price": 330,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 8,
+      "name": "Opal Anklet",
+      "brand": "TrendyJewel",
+      "image": "assets/images/jewellery/jewellery-8.png",
+      "rating": 5,
+      "price": 310,
+      "quantity": 1,
+      "category": "jewellery"
+    },
+    {
+      "id": 9,
+      "name": "Smartphone X",
+      "brand": "TechBrand",
+      "image": "assets/images/phone/phone-1.png",
+      "rating": 5,
+      "price": 400,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 10,
+      "name": "Budget Phone",
+      "brand": "ValueTech",
+      "image": "assets/images/phone/phone-2.png",
+      "rating": 4,
+      "price": 200,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 11,
+      "name": "Gaming Phone",
+      "brand": "GamePro",
+      "image": "assets/images/phone/phone-3.png",
+      "rating": 5,
+      "price": 350,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 12,
+      "name": "Camera Phone",
+      "brand": "PhotoTech",
+      "image": "assets/images/phone/phone-4.png",
+      "rating": 5,
+      "price": 370,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 13,
+      "name": "Foldable Phone",
+      "brand": "FoldTech",
+      "image": "assets/images/phone/phone-5.png",
+      "rating": 5,
+      "price": 300,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 14,
+      "name": "5G Phone",
+      "brand": "FastNet",
+      "image": "assets/images/phone/phone-6.jpg",
+      "rating": 4,
+      "price": 250,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 15,
+      "name": "Compact Phone",
+      "brand": "MiniMob",
+      "image": "assets/images/phone/phone-7.jpg",
+      "rating": 4,
+      "price": 280,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 16,
+      "name": "Business Phone",
+      "brand": "ExecTech",
+      "image": "assets/images/phone/phone-8.png",
+      "rating": 5,
+      "price": 390,
+      "quantity": 1,
+      "category": "phone"
+    },
+    {
+      "id": 17,
+      "name": "Classic Watch",
+      "brand": "TimeMaster",
+      "image": "assets/images/watch/watch-1.jpg",
+      "rating": 5,
+      "price": 95,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 18,
+      "name": "Digital Watch",
+      "brand": "Digitron",
+      "image": "assets/images/watch/watch-2.png",
+      "rating": 4,
+      "price": 50,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 19,
+      "name": "Sports Watch",
+      "brand": "FitTime",
+      "image": "assets/images/watch/watch-3.png",
+      "rating": 4,
+      "price": 70,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 20,
+      "name": "Luxury Watch",
+      "brand": "Elegance",
+      "image": "assets/images/watch/watch-4.jpg",
+      "rating": 5,
+      "price": 100,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 21,
+      "name": "Smart Watch",
+      "brand": "TechTime",
+      "image": "assets/images/watch/watch-5.jpg",
+      "rating": 4,
+      "price": 80,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 22,
+      "name": "Fashion Watch",
+      "brand": "StylishTick",
+      "image": "assets/images/watch/watch-6.png",
+      "rating": 5,
+      "price": 55,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 23,
+      "name": "Hybrid Watch",
+      "brand": "FutureTime",
+      "image": "assets/images/watch/watch-7.png",
+      "rating": 4,
+      "price": 90,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 24,
+      "name": "Analog Watch",
+      "brand": "ClassicStyle",
+      "image": "assets/images/watch/watch-8.jpg",
+      "rating": 5,
+      "price": 75,
+      "quantity": 1,
+      "category": "watch"
+    },
+    {
+      "id": 25,
+      "name": "Casual Shirt",
+      "brand": "FashionHub",
+      "image": "assets/images/shirt/shirt-1.png",
+      "rating": 4,
+      "price": 25,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 26,
+      "name": "Formal Shirt",
+      "brand": "OfficeWear",
+      "image": "assets/images/shirt/shirt-2.png",
+      "rating": 5,
+      "price": 30,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 27,
+      "name": "T-Shirt",
+      "brand": "TrendyTees",
+      "image": "assets/images/shirt/shirt-3.png",
+      "rating": 4,
+      "price": 22,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 28,
+      "name": "Denim Shirt",
+      "brand": "UrbanStyle",
+      "image": "assets/images/shirt/shirt-4.png",
+      "rating": 5,
+      "price": 28,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 29,
+      "name": "Polo Shirt",
+      "brand": "GolfPro",
+      "image": "assets/images/shirt/shirt-5.png",
+      "rating": 4,
+      "price": 26,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 30,
+      "name": "Hoodie Shirt",
+      "brand": "CasualVibe",
+      "image": "assets/images/shirt/shirt-6.png",
+      "rating": 5,
+      "price": 24,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 31,
+      "name": "Linen Shirt",
+      "brand": "CoolBreeze",
+      "image": "assets/images/shirt/shirt-7.png",
+      "rating": 4,
+      "price": 29,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 32,
+      "name": "Short Sleeve Shirt",
+      "brand": "Sunwear",
+      "image": "assets/images/shirt/shirt-8.png",
+      "rating": 5,
+      "price": 23,
+      "quantity": 1,
+      "category": "shirt"
+    },
+    {
+      "id": 33,
+      "name": "Leather Sofa",
+      "brand": "ComfortLiving",
+      "image": "assets/images/sofa-chair/sofa-chair-1.png",
+      "rating": 5,
+      "price": 500,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 34,
+      "name": "Fabric Sofa",
+      "brand": "HomeComfort",
+      "image": "assets/images/sofa-chair/sofa-chair-2.png",
+      "rating": 4,
+      "price": 450,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 35,
+      "name": "Recliner Chair",
+      "brand": "RelaxPlus",
+      "image": "assets/images/sofa-chair/sofa-chair-3.png",
+      "rating": 5,
+      "price": 400,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 36,
+      "name": "Accent Chair",
+      "brand": "StylePlus",
+      "image": "assets/images/sofa-chair/sofa-chair-4.png",
+      "rating": 4,
+      "price": 350,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 37,
+      "name": "Sectional Sofa",
+      "brand": "LuxFurniture",
+      "image": "assets/images/sofa-chair/sofa-chair-5.png",
+      "rating": 5,
+      "price": 600,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 38,
+      "name": "Office Chair",
+      "brand": "WorkWell",
+      "image": "assets/images/sofa-chair/sofa-chair-6.png",
+      "rating": 4,
+      "price": 350,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 39,
+      "name": "Bean Bag",
+      "brand": "ComfyBag",
+      "image": "assets/images/sofa-chair/sofa-chair-7.png",
+      "rating": 4,
+      "price": 200,
+      "quantity": 1,
+      "category": "sofa-chair"
+    },
+    {
+      "id": 40,
+      "name": "Chaise Lounge",
+      "brand": "ElegantLiving",
+      "image": "assets/images/sofa-chair/sofa-chair-8.png",
+      "rating": 5,
+      "price": 550,
+      "quantity": 1,
+      "category": "sofa-chair"
+    }
+  ]
+  
